@@ -1,0 +1,22 @@
+body{
+	padding: 0;
+	margin: 0;
+}
+
+#container{
+	position: relative;
+}
+#container .box{
+	float: left;
+	border: 1px solid #CCC;
+	border-radius: 5px;
+	background-color: #eee;
+	padding: 10px;
+	height: auto;
+}
+img{
+	vertical-align: middle;
+	width: 210px;
+
+	display: block;
+}
